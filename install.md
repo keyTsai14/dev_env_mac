@@ -10,3 +10,13 @@ refer: https://godleon.github.io/blog/DevOps/terraform-getting-started/
 
 #### Vagrant
 [install_link](https://developer.hashicorp.com/vagrant/install)
+
+run commands as follows:
+```bash
+git clone https://github.com/wardviaene/devops-box.git
+
+cd devops-box
+vagrant up
+# enter the vb
+vagrant ssh
+```
