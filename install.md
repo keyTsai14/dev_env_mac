@@ -1,8 +1,11 @@
 ## 2025.5.12
 ### terraform install
 
+refer: https://godleon.github.io/blog/DevOps/terraform-getting-started/
+[install_link](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli) 
+
 #### VirtualBox
-https://www.virtualbox.org/wiki/Downloads
+[Downloads](https://www.virtualbox.org/wiki/Downloads)
 
 #### Vagrant
-https://developer.hashicorp.com/vagrant/install
+[install_link](https://developer.hashicorp.com/vagrant/install)
