@@ -1,7 +1,7 @@
 ## 2025.5.12
 ### terraform install
 
-refer: https://godleon.github.io/blog/DevOps/terraform-getting-started/
+refer: https://godleon.github.io/blog/DevOps/terraform-getting-started/ 
 [install_link](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli) 
 
 #### VirtualBox
